@@ -38,3 +38,9 @@ This project focuses on predicting the sale price of used vehicles for Rusty Bar
 - Experiment with ensemble models like Random Forest or XGBoost  
 - Incorporate more granular vehicle specs and external pricing benchmarks  
 - Deploy model in a price recommendation tool for dealership staff
+
+## Author
+
+Heather Marie Culligan  
+[LinkedIn](https://linkedin.com/in/hmc2025)  
+[GitHub](https://github.com/hmc9898)
